@@ -1,0 +1,30 @@
+prp
+0 x^0
+
+adc   -3   5
+
+adc    4   7
+
+adc   -9   6  
+
+prp
++4 x^7 -9 x^6 -3 x^5
+ 
+pvp    0
+0
+
+dex    9
+
+prp
++4 x^7 -9 x^6 -3 x^5
+
+pvp    2
+-160
+
+prc    5
+-3
+
+prc    15
+0
+
+end

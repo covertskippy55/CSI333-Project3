@@ -1,0 +1,12 @@
+prd
+adc   1   10
+adc   7   121
+adc   9   0
+prd
+prp
+prc   120
+prc   121
+dex   7
+der   0    121
+prp
+end

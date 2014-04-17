@@ -1,0 +1,12 @@
+prp
+adc   -3   5
+adc    4   7
+adc   -9   6  
+prp
+pvp    0
+dex    9
+prp
+pvp    2
+prc    5
+prc    15
+end
