@@ -18,4 +18,4 @@ This function will print the coefficient of the given exponent if it exists in t
 9)plc()-
 This function will print the largest coefficient within the polynomial. 
 
-There are multiple example input files are included along with some output files. For some reason there are an uneven number of them, so youll have to forgive me.
+There are multiple example input files are included along with some output files.
